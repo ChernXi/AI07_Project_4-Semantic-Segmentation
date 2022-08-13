@@ -7,7 +7,7 @@ Below are some samples of images and masks(labels) that used for training:
 ![semantic segmentation](https://user-images.githubusercontent.com/108325848/184470998-bbc8e68d-707e-47bd-8961-641bb30f500e.png)
 
 Sample of image, label, and auto-masking(prediction) before training:
-![image](https://user-images.githubusercontent.com/108325848/184471233-9b3a6d21-9a86-4bc6-9e5e-a1b8fec61ea5.png)
+![image](https://user-images.githubusercontent.com/108325848/184471263-a40c6211-fd9b-45e6-9031-5d54ae2cdf92.png)
 
 Sample of image, label, and auto-masking(prediction) after training:
 ![image](https://user-images.githubusercontent.com/108325848/184471134-bb33bbf4-25bb-4711-b657-8d8d37d177cb.png)
