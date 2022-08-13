@@ -18,5 +18,6 @@ The reason is simple:<br>
 <p align="center">
 Deep learning allows computers to generalise our meticulous artwork and apply it to previously unseen scenarios.
 </p> 
-Therefore, by investing a small amount of time in deep learning, we can **save an endless amount of time by performing manual masking in the future**. Additionally, even if we are no longer able to perform the masking, our work can be passed down to the next generation.<br>
+Therefore, by investing a small amount of time in deep learning, we can save an endless amount of time by performing manual masking in the future.<br>
+Additionally, even if we are no longer able to perform the masking, our work can be passed down to the next generation.<br>
 Hence, in the long term, it is essential to employ deep learning in semantic segmentation.<br>
