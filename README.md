@@ -14,6 +14,9 @@ Sample of image, label, and auto-masking(prediction) after training:
 
 ## Advantage of using deep learning in Semantic Segmentation
 You may be wondering why we need deep learning to do semantic segmentation when we can do it manually and the masking artwork appears to be even more meticulous.<br>
-The reason is simple: **deep learning allows computers to generalise our meticulous artwork and apply it to previously unseen scenarios**.<br>
+The reason is simple:<br>
+<p align="center">
+**"Deep learning allows computers to generalise our meticulous artwork and apply it to previously unseen scenarios."**<br>
+</p>
 Therefore, by investing a small amount of time in deep learning, we can **save an endless amount of time by performing manual masking in the future**. Additionally, even if we are no longer able to perform the masking, our work can be passed down to the next generation.<br>
 Hence, in the long term, it is essential to employ deep learning in semantic segmentation.<br>
